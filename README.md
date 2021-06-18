@@ -1,3 +1,4 @@
+[Smart Waste management_1.pptx](https://github.com/Navneetkum/Wit-hackathon-knowyourwaste/files/6679009/Smart.Waste.management_1.pptx)
 # Wit-hackathon-knowyourwaste
 
 
