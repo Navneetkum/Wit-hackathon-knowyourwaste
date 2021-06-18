@@ -50,7 +50,7 @@ NOTE:Please open the ppt in edit mode.In preview mode all things will not be vis
 3. User can see the reward points given by the garbage collector and later get discount coupons or voucers from them.
 4. If e is confused about category of a product a picture can be uploaded and ML algorith will tell category.
 3. Garbage collector gets to see all socities under him
-4. He can give reward points to users based on the way people are seggregating the waste.[Smart Waste management.pptx](https://github.com/Navneetkum/Wit-hackathon-
+4. He can give reward points to users based on the way people are seggregating the waste.
 
     
 #### The Tech stack we used
