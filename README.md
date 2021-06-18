@@ -1,4 +1,4 @@
-# KNOWYOURWASTE
+# KnowYourWaste
 
 ## Short description
 
