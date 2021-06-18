@@ -4,7 +4,7 @@
 
 ### What's the problem?
 
-he rapid increase in amount and types of solid waste is becoming a growing problem for local and national governments. Therefore, We need to ensure effective and sustainable management of waste.Waste Management is faced as a problem by many societies where people are unaware of how to dispose off their items. This sometimes may lead to serious threats to environment as well as life of animals as well.he amount of waste generated is far more than the waste recycled.Improper waste management leads to increase in cost of recycling and more working hours.
+The rapid increase in amount and types of solid waste is becoming a growing problem for local and national governments. Therefore, We need to ensure effective and sustainable management of waste.Waste Management is faced as a problem by many societies where people are unaware of how to dispose off their items. This sometimes may lead to serious threats to environment as well as life of animals as well.he amount of waste generated is far more than the waste recycled.Improper waste management leads to increase in cost of recycling and more working hours.
 This can further lead to overcapacity of dumping grounds and landfills, littered waste around the city. 
 These environments act as a breeding ground for diseases.
 
