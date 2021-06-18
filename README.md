@@ -26,7 +26,7 @@ Mysql, Node js ,Tensorflow, Flask, React.js, Heroku, IBM cloud .
 
 #### 4. Working of our project
 
-1. We have developed machine learning model on heroku app which will be used for classification of waste.(https://glacial-wave-95212.herokuapp.com/predict).
+1. We have developed machine learning model on heroku app which will be used for classification of waste.(https://glacial-wave-95212.herokuapp.com/).
 2. This can be used by registered residents of any society for seggregating the waste.
 3. The application will be used by garbage collector and they'll be registered on different page.
 4. Grabage collector will give points to society residents on the basis of how well they have seggregated the waste.
