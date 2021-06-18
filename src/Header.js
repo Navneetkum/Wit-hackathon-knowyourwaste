@@ -24,7 +24,7 @@ export default function Header(props) {
 		console.log(file.secure_url);
 		setImageURL(file.secure_url);
 
-		const file1 = await fetch('https://waste-segregation-backend.herokuapp.com/predict', {
+		const file1 = await fetch('https://glacial-wave-95212.herokuapp.com/predict', {
 			method: 'POST',
 			headers: {
 				'Content-type': 'application/json',
