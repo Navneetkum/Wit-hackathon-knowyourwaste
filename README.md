@@ -36,10 +36,10 @@ Mysql, Node js ,Tensorflow, Flask, React.js, Heroku, IBM cloud .
 
 #### 5.  Team members 
 
-- Rupali mittal.      
-- Navneet kumar.
+- Rupali Mittal.      
 - Mansi Gupta.
-- Nishant kumar. 
+- Navneet Kumar.
+- Nishant Kumar. 
  
 
 
