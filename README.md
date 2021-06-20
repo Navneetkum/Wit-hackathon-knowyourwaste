@@ -60,6 +60,7 @@ Mysql, Node js ,Tensorflow, Flask, React.js, Heroku, IBM cloud .
 ### link to access the application on ibm cloud 
 ## https://knowyourwaste.eu-gb.mybluemix.net/
 Steps for demo : Upload the picture of the waste you want to classify and after wasiting for 1-2 minutes you will se the result.
+Only first upload will take more time . if it's not giving you the results then refresh the heroku link.
 1. We have developed machine learning model on heroku app which will be used for classification of waste.(https://glacial-wave-95212.herokuapp.com/).
 2. This can be used by registered residents of any society for seggregating the waste.
 3. The application will be used by garbage collector and they'll be registered on different page.
