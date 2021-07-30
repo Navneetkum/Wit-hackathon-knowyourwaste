@@ -83,9 +83,7 @@ It will also save overflow of waste along side roads and societies.
 #### Team members 
 
 - Rupali Mittal.      
-- Mansi Gupta.
 - Navneet Kumar.
-- Nishant Kumar. 
  
 
 
