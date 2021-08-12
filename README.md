@@ -41,7 +41,8 @@ https://www.youtube.com/watch?v=uALlrOFO8B0
 Please refer the presentation for detailed architecture:
 
 
-[knowYourWaste.pptx](https://github.com/Navneetkum/Wit-hackathon-knowyourwaste/files/6907447/knowYourWaste.pptx)
+[knowYourWaste.pptx](https://github.com/Navneetkum/Wit-hackathon-knowyourwaste/files/6975299/knowYourWaste.pptx)
+
 
 
 
@@ -85,6 +86,7 @@ It will also save overflow of waste along side roads and societies.
 
 - Rupali Mittal.      
 - Navneet Kumar.
+- Mansi Gupta.
  
 
 
